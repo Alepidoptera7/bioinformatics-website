@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  base: 'https://github.com/Alepidoptera7/bioinformatics-website',
+  base: '/bioinformatics-website/',
   plugins: [react()],
 })
