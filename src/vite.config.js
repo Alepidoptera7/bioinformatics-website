@@ -5,3 +5,4 @@ export default defineConfig({
   base: '/bioinformatics-website/',
   plugins: [react()],
 })
+
